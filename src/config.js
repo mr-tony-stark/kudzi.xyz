@@ -4,7 +4,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/mr-tony-stark',
+      url: 'https://github.com',
     },
     {
       name: 'Instagram',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/kudzigeorge',
+      url: 'https://codepen.io',
     },
   ],
 

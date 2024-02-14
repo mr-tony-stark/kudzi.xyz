@@ -1,16 +1,11 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+date: '2023-02-14'  # Corrected to a full date format for clarity
+title: 'Geocoding with Gosper Curves'
+cover: './gosper.jpg'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - R
+  - Unit
+  - Uber H3  # Corrected casing for consistency
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+I designed and developed a unique geocoding method to address the lack of precise street addresses affecting half the world's urban population. Leveraging Space-filling curves (SFCs) and a novel hexagonal hierarchical structure inspired by the Gosper curve, this method—building on Uher et al.'s work—ensures unique, proximity-maintaining bijective mapping. It adeptly balances adaptability with user-friendliness, and offline functionality, significantly enhancing service delivery, ecommerce, and urban planning.

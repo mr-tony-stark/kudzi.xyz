@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2024-01-27'
+title: 'Hexagonal Hierarchies in Space-Filling Curves'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: './pdf/A_song_of_Shapes_and_Codes.pdf'  # Updated to point to the local PDF in the static folder
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - R
+  - Gosper Curves
+  - Python
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A Novel Approach to Urban Geocoding Challenges
+
